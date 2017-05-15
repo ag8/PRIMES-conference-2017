@@ -1,4 +1,4 @@
-Project proposed by Prof. Gil Alterovitz
+Project suggested by Prof. Gil Alterovitz
 
 The advent of next-generation sequencing technologies provides access to genomic and
 epigenetic data, such as sequence motifs, histone modifications, as well as structural motifs and
